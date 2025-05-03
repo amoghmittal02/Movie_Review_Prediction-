@@ -1,9 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/Lqxbrt0o)
-
-# CS506 Midterm
 # Amogh Mittal
 
-# CS 506 Technical Midterm (Review Classification)
+# Movie Review Prediction
 
 This project implements a machine learning pipeline to classify Amazon product reviews based on their textual content.  
 We predict the review score (1 to 5 stars) based on both the review's summary and full text fields.
