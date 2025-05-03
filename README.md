@@ -1,5 +1,10 @@
 # Amogh Mittal
 
+# Kaggle Competition 
+
+For dataset and other details please refer the following link 
+https://www.kaggle.com/competitions/cs-506-spring-2025-technical-midterm/leaderboard
+
 # Movie Review Prediction
 
 This project implements a machine learning pipeline to classify Amazon product reviews based on their textual content.  
